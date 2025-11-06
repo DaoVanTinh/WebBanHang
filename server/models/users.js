@@ -1,4 +1,3 @@
-import Password from "antd/es/input/Password";
 import mongoose from "mongoose";
 
 const userSchema = new mongoose.Schema(
